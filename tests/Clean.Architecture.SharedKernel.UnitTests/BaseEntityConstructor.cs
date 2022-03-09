@@ -1,5 +1,4 @@
 ﻿using System;
-using Clean.Architecture.SharedKernel;
 using Moq;
 using NUnit.Framework;
 
