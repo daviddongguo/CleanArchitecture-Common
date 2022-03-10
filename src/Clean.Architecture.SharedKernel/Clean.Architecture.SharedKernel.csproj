@@ -1,7 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
+    <PackageId>David.CleanArchitecture.Common.SharedKernel</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.0</Version>
+    <Authors>David Dongguo</Authors>
+    <PackageProjectUrl>https://github.com/daviddongguo/CleanArchitecture-Common</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/daviddongguo/CleanArchitecture-Common</RepositoryUrl>
+    <Company>Dongguo Garden</Company>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
